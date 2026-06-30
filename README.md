@@ -1,5 +1,5 @@
 # Leetcode
-This repository contains my LeetCode solutions, synced automatically via [LeetHub](https://github.com/qduguyu/LeetHub). Each folder includes the problem statement, my solution, and runtime/memory stats at the time of submission. Solutions are organized by topic below.
+This repository contains my LeetCode solutions, synced automatically via [LeetHub](https://github.com/raphaelheinz/LeetHub-3.0). Each folder includes the problem statement, my solution, and runtime/memory stats at the time of submission. Solutions are organized by topic below.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
