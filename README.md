@@ -7,11 +7,13 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 | ------- |
 | [0001-two-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Soham-Patil10/Leetcode/tree/master/0014-longest-common-prefix) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Soham-Patil10/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Soham-Patil10/Leetcode/tree/master/0013-roman-to-integer) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Soham-Patil10/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
 |  |
 | ------- |
@@ -25,4 +27,12 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Soham-Patil10/Leetcode/tree/master/0013-roman-to-integer) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Soham-Patil10/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Soham-Patil10/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
