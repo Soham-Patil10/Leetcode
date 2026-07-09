@@ -8,6 +8,7 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 | [0001-two-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Soham-Patil10/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Soham-Patil10/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Soham-Patil10/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,20 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Soham-Patil10/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Two Pointers
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Soham-Patil10/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Binary Search
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Soham-Patil10/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Greedy
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Soham-Patil10/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Sorting
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Soham-Patil10/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 <!---LeetCode Topics End-->
