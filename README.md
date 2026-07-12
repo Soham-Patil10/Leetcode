@@ -8,6 +8,7 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 | [0001-two-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Soham-Patil10/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Soham-Patil10/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3093-longest-common-suffix-queries](https://github.com/Soham-Patil10/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Soham-Patil10/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
@@ -21,10 +22,12 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 | ------- |
 | [0013-roman-to-integer](https://github.com/Soham-Patil10/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Soham-Patil10/Leetcode/tree/master/0014-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/Soham-Patil10/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Soham-Patil10/Leetcode/tree/master/0014-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/Soham-Patil10/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 ## Math
 |  |
 | ------- |
