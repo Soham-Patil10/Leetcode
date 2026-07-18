@@ -31,6 +31,7 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Soham-Patil10/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Soham-Patil10/Leetcode/tree/master/0013-roman-to-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Tree
