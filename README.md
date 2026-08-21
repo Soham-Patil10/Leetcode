@@ -22,6 +22,7 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 | ------- |
 | [0013-roman-to-integer](https://github.com/Soham-Patil10/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Soham-Patil10/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Soham-Patil10/Leetcode/tree/master/0020-valid-parentheses) |
 | [3093-longest-common-suffix-queries](https://github.com/Soham-Patil10/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 ## Trie
 |  |
@@ -58,4 +59,12 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 |  |
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Soham-Patil10/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Soham-Patil10/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Soham-Patil10/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
