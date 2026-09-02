@@ -11,6 +11,7 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 | [3093-longest-common-suffix-queries](https://github.com/Soham-Patil10/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Soham-Patil10/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Soham-Patil10/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 | [0009-palindrome-number](https://github.com/Soham-Patil10/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Soham-Patil10/Leetcode/tree/master/0013-roman-to-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Soham-Patil10/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Tree
 |  |
 | ------- |
