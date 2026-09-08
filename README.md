@@ -6,6 +6,7 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Soham-Patil10/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Soham-Patil10/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Soham-Patil10/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3093-longest-common-suffix-queries](https://github.com/Soham-Patil10/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -59,6 +60,7 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Soham-Patil10/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Soham-Patil10/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
@@ -88,4 +90,8 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Soham-Patil10/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Soham-Patil10/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
