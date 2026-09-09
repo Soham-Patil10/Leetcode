@@ -43,6 +43,7 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 | [0013-roman-to-integer](https://github.com/Soham-Patil10/Leetcode/tree/master/0013-roman-to-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3870-count-commas-in-range](https://github.com/Soham-Patil10/Leetcode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Soham-Patil10/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Soham-Patil10/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Soham-Patil10/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Tree
