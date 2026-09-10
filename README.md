@@ -26,6 +26,7 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Soham-Patil10/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Soham-Patil10/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Soham-Patil10/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Soham-Patil10/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Soham-Patil10/Leetcode/tree/master/0020-valid-parentheses) |
@@ -59,6 +60,7 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Soham-Patil10/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Soham-Patil10/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
@@ -88,6 +90,7 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Soham-Patil10/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/Soham-Patil10/Leetcode/tree/master/0115-distinct-subsequences) |
 ## Sliding Window
 |  |
@@ -101,4 +104,8 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Soham-Patil10/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Soham-Patil10/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
