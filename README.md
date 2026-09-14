@@ -42,6 +42,7 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 | ------- |
 | [0009-palindrome-number](https://github.com/Soham-Patil10/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Soham-Patil10/Leetcode/tree/master/0013-roman-to-integer) |
+| [0836-rectangle-overlap](https://github.com/Soham-Patil10/Leetcode/tree/master/0836-rectangle-overlap) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3870-count-commas-in-range](https://github.com/Soham-Patil10/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Soham-Patil10/Leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -108,4 +109,8 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soham-Patil10/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Soham-Patil10/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
