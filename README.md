@@ -44,6 +44,7 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 | [0009-palindrome-number](https://github.com/Soham-Patil10/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Soham-Patil10/Leetcode/tree/master/0013-roman-to-integer) |
 | [0836-rectangle-overlap](https://github.com/Soham-Patil10/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Soham-Patil10/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3870-count-commas-in-range](https://github.com/Soham-Patil10/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Soham-Patil10/Leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -90,12 +91,14 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Soham-Patil10/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/Soham-Patil10/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soham-Patil10/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/Soham-Patil10/Leetcode/tree/master/0115-distinct-subsequences) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Soham-Patil10/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Soham-Patil10/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
@@ -117,4 +120,8 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Soham-Patil10/Leetcode/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Soham-Patil10/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
