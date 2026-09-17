@@ -8,6 +8,7 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 | [0001-two-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Soham-Patil10/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Soham-Patil10/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Soham-Patil10/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3093-longest-common-suffix-queries](https://github.com/Soham-Patil10/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -21,6 +22,7 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 | [0001-two-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Soham-Patil10/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Soham-Patil10/Leetcode/tree/master/0013-roman-to-integer) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Soham-Patil10/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
 |  |
@@ -70,6 +72,7 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Soham-Patil10/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Soham-Patil10/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
@@ -98,12 +101,14 @@ This repository contains my LeetCode solutions, synced automatically via [LeetHu
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soham-Patil10/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/Soham-Patil10/Leetcode/tree/master/0115-distinct-subsequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Soham-Patil10/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Soham-Patil10/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Soham-Patil10/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Soham-Patil10/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
